@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\menu-app-dita\bin\Debug\menu-app-dita.exe.config
+C:\Users\User\source\repos\menu-app-dita\bin\Debug\menu-app-dita.exe
+C:\Users\User\source\repos\menu-app-dita\bin\Debug\menu-app-dita.pdb
+C:\Users\User\source\repos\menu-app-dita\obj\Debug\menu-app-dita.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\menu-app-dita\obj\Debug\menu-app-dita.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\menu-app-dita\obj\Debug\menu-app-dita.exe
+C:\Users\User\source\repos\menu-app-dita\obj\Debug\menu-app-dita.pdb
